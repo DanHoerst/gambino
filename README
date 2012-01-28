@@ -1,0 +1,6 @@
+Gambino weblog - app only
+
+Dependant on:
+
+- Added Markdown from https://sourceforge.net/projects/python-markdown/
+- Added Django Tagging from http://code.google.com/p/django-tagging/
